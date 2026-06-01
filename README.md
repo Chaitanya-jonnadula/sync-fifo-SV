@@ -33,4 +33,4 @@ Tool Used:
 
 ## Waveform
 
-![Waveform](waveform/waveform.png)
+![Waveform](waveform.png)
