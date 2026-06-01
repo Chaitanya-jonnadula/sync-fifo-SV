@@ -15,7 +15,7 @@ This project implements a parameterized synchronous FIFO using SystemVerilog.
 ```text
 rtl/        → FIFO RTL design
 tb/         → Testbench
-waveform/   → Simulation waveform
+waveform   → Simulation waveform
 ```
 
 ## Simulation
