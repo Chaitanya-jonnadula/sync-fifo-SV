@@ -23,14 +23,6 @@ waveform   → Simulation waveform
 Tool Used:
 - QuestaSim
 
-## Concepts Covered
-- FIFO architecture
-- Circular buffers
-- Pointer management
-- RTL design
-- Testbench creation
-- Waveform analysis
-
 ## Waveform
 
 ![Waveform](waveform.png)
