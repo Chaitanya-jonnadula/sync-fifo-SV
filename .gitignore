@@ -1,0 +1,15 @@
+# QuestaSim / ModelSim
+work/
+transcript
+vsim.wlf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
